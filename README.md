@@ -13,6 +13,7 @@ Weather app
 ## Features
 
 1. Get the weather of a location.
+2. Toggle between the metric and imperial system when tap the info text.
 
 ## Screenshots
 
