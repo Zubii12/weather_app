@@ -14,6 +14,6 @@ WeatherState _searchLocationSuccessful(WeatherState state, SearchLocationSuccess
 
 WeatherState _getWeatherSuccessful(WeatherState state, GetWeatherSuccessful action) {
   return state.rebuild((WeatherStateBuilder b) {
-      b.forecasts = ListBuilder<AppWeather>(action.forecasts).build().toList();
+    b.forecasts = ListBuilder<AppWeather>(action.forecasts).build().toList();
   });
 }
