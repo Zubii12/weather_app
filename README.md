@@ -16,9 +16,7 @@ Photo list created with redux state management and unsplash API.
 
 ## Screenshots
 
-<p>
- <img src="Screenshot_1612219192.png"  width = "400">
-</p>
+![Screenshot](https://github.com/Zubii12/weather_app/blob/master/Screenshot_1612219200.png)
 
 ## Getting Started
 
