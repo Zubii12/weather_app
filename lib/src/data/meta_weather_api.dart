@@ -34,7 +34,7 @@ class MetaWeatherApi {
 
     final Response response = await _client.get(url);
     final dynamic data = jsonDecode(response.body);
-    final List<dynamic> ba  = data['consolidated_weather'];
+    final List<dynamic> ba = data['consolidated_weather'];
     return ba.map((dynamic json) => AppWeather.fromJson(json)).toList();
     //final cf = data['consolidated_weather'].map((dynamic json) => AppWeather.fromJson(json));
   }
