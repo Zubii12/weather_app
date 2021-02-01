@@ -1,6 +1,6 @@
 # weather_app
 
-Photo list created with redux state management and unsplash API.
+Weather app
 
 # Quick links
 
@@ -29,7 +29,7 @@ $ git clone https://github.com/Zubii12/photo_list_redux
 $ cd photo_list_redux/
 ```
 
-#### 3. Before using the Unsplash API, read the [Meta weather API](https://www.metaweather.com/api/).
+#### 3. Before using the Meta weather API, read the [Meta weather API](https://www.metaweather.com/api/).
 
 ## Questions?🤔
 
